@@ -33,7 +33,7 @@ We welcome contributions from the community to enhance our projects and make the
 If you have any questions, feedback, or inquiries, please feel free to reach out to us. You can contact us through the following channels:
 
 - Website: [https://www.tukutoi.com](https://www.tukutoi.com)
-- Email: congtytnhh@tukutoi.com
+- Email: hello@tukutoi.com
 - Twitter: [@tukutoi_ltd](https://twitter.com/tukutoi_ltd)
 
 Thank you for visiting our GitHub repository, and we hope you find our projects useful and inspiring!
