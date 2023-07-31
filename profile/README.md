@@ -35,6 +35,7 @@ If you have any questions, feedback, or inquiries, please feel free to reach out
 - Website: [https://www.tukutoi.com](https://www.tukutoi.com)
 - Email: hello@tukutoi.com
 - Twitter: [@tukutoi_ltd](https://twitter.com/tukutoi_ltd)
+- Facebook: [tukutoi](https://www.facebook.com/tukutoi)
 - Mattermost: [TukuToi Chat](https://chat.tukutoi.com/signup_user_complete/?id=kp33nz9e3f893dpgamz6kz1eza&md=link&sbr=fa)
 
 Thank you for visiting our GitHub repository, and we hope you find our projects useful and inspiring!
